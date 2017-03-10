@@ -2,8 +2,8 @@
 WHM Take Over v.2
 
 # [ uNdErGrOuNd only for the fam ]
-Name      : WHM Take Over v.2
-Coder     : Hannibal Ksa (@r00t3rz)
+- Name      : WHM Take Over v.2
+- Coder     : Hannibal Ksa (@r00t3rz)
 
 # NOTE!! :
 This script is totally underground, and please leave it like this !!
