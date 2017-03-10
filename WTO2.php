@@ -28,7 +28,7 @@ $start = $time;
 @error_reporting(0);
 @set_time_limit(0);
 /*
-# Downloadn xmlapi.php in the same path/dir/folder
+# Download xmlapi.php in the same path/dir/folder
 # Link: https://raw.githubusercontent.com/CpanelInc/xmlapi-php/master/xmlapi.php
 */
 include 'xmlapi.php'; # xmlapi path
