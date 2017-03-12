@@ -10,7 +10,7 @@
 # and please leave it like this !!
 #
 # Now for everyone. However, use it at your own risk,
-# I've no responsibility of what could happen/
+# I've no responsibility of what would or could happen.
 #
 # ** Shoutout to RAB3OUN (sec4ever.com) **
 #
